@@ -11,7 +11,7 @@ featuredImage:
   altText: Post thumbnail image
 media:
   url: /images/IMG_20200421_152242102.jpg
-  altText: altText of the image
+  altText: Mato do Inga/Àguas
   caption: Caption of the image
   elementId: ''
   type: ImageBlock
