@@ -13,11 +13,30 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      ## Olá, meu nome é Victor Iterom. Sou formado em Tecnologia em Análise e
+      Desenvolvimento de Sistemas. Atuo com tecnologia desde os meus 16 anos, em
+      infraestruturas de redes de computadores corporativos, na época com
+      servidores Windows NT, NT 4.0, Windows 2000 Server, etc. Depois passei
+      atuar em montagens de computadores para redes corporativos com acesso
+      remoto nos anos de 2006 a 2013, algo inovador para época.
+
+
+      Após, procurando uma estabilidade financeira para a família, prestei
+      concursos públicos e passei, sendo que estou estagnado até nos dias
+      atuais, sem perspectivas de crescimento ou melhoria financeira, devido ao
+      governo não pagar sequer a reposição da inflação dos últimos anos.
+
+
+      Atuo diariamente, na tentativa de proteger pessoas que por vezes querem
+      nos destruir. Faço o meu melhor diariamente, as vezes frustrante, e outras
+      vezes terrivelmente desagradável. 
+
+
+      Pelo menos uma vez na semana penso em sair, porém o salário por
+      insuficiente que seja, temo em não conseguir algo melhor fora, e ainda,
+      temo em não poder proteger a minha família.
+
     media:
       type: ImageBlock
       url: /images/about.jpg
