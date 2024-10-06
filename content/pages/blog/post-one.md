@@ -2,7 +2,7 @@
 type: PostLayout
 title: 'E assim iniciou o Mato do Ingá/Àguas '
 colors: colors-a
-date: '2020-05-28'
+date: '2020-03-28'
 author: content/data/team/doris-soto.json
 excerpt: More context that may or may not be helpful
 featuredImage:
