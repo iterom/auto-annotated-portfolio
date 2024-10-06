@@ -76,7 +76,7 @@
             "email": "iterom@hotmail.com",
             "emailAltText": "Meu E-mail",
             "address": "República de Curitiba - Província do Paraná - Estado de exceção Brasil",
-            "addressAltText": "My address"
+            "addressAltText": "Minha Localização"
         },
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
         "styles": {
