@@ -39,7 +39,7 @@ sections:
 
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/20190606_083834.jpg
       altText: Hero image
     styles:
       self:
