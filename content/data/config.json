@@ -72,7 +72,7 @@
             "type": "ContactBlock",
             "title": "Demais contatos",
             "phoneNumber": "(41) 9 9767-5107",
-            "phoneAltText": "My phone number",
+            "phoneAltText": "Meu telefone para contato",
             "email": "thisismyemail.@myemail.me",
             "emailAltText": "My email",
             "address": "312 Lovely Street, Brooklyn, NY, 123456",
