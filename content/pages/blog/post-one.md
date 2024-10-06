@@ -12,7 +12,7 @@ featuredImage:
 media:
   url: /images/IMG_20200421_152242102.jpg
   altText: Mato do Inga/Àguas
-  caption: Caption of the image
+  caption: Mato do ingá/àguas
   elementId: ''
   type: ImageBlock
 bottomSections:
