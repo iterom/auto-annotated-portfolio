@@ -71,7 +71,7 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Demais contatos",
-            "phoneNumber": "850-123-5021",
+            "phoneNumber": "(41) 9 8842-4000",
             "phoneAltText": "My phone number",
             "email": "thisismyemail.@myemail.me",
             "emailAltText": "My email",
